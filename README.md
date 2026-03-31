@@ -1,4 +1,4 @@
-**Unhinger** is a highly vibe-coded Python application built to completely unhinge the way you network.
+**UnHinger** is a highly vibe-coded Python application built to completely unhinge the way you network.
 
 Stop relying on awkward small talk. Unhinger takes the scattered information you currently have about a person, throws it into a discovery engine, and spits out the most optimal, borderline-obsessive (but socially acceptable) vectors for connection. Whether you're trying to find a mutual hyper-fixation, map out a conversation tree, or just find the perfect icebreaker, Unhinger has your back.
 
@@ -6,7 +6,7 @@ Stop relying on awkward small talk. Unhinger takes the scattered information you
 
 ## 🛠️ Tech Stack & Base Technologies
 
-Unhinger is built on a lightweight, rock-solid Python foundation utilizing the classic MVC (Model-View-Controller) and Repository patterns.
+UnHinger is built on a lightweight, rock-solid Python foundation utilizing the classic MVC (Model-View-Controller) and Repository patterns.
 
   * **Language:** Pure Python 3.8+ 🐍
   * **Web Framework:** Python-based micro-framework (designed around `app.py` and `run.py` server architectures, commonly aligned with Flask or FastAPI).
